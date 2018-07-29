@@ -6,4 +6,4 @@ Stay tuned to this channel to learn from total noob to where ever you reach.
 
 I am new to IOS development and mostly doing self learning.
 
-[Tutorial Steps](https://youtu.be/XNKJAcCov-s)
+[![IOS tutorial: Creating 100 IOS Apps](http://img.youtube.com/vi/XNKJAcCov-s/0.jpg)](http://www.youtube.com/watch?v=XNKJAcCov-s "IOS tutorial: Creating 100 IOS Apps")
